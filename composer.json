@@ -1,0 +1,23 @@
+{
+    "name": "toumoro/tm-containercache",
+    "type": "typo3-cms-extension",
+    "description": "Clear typo3temp ",
+    "authors": [],
+    "require": {
+        "typo3/cms-core": "^8.7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Toumoro\\TmContainercache\\": "Classes"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Toumoro\\TmContainercache\\Tests\\": "Tests"
+        }
+    },
+    "replace": {
+        "tm_containercache": "self.version",
+        "typo3-ter/tm-containercache": "self.version"
+    }
+}
