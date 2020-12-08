@@ -6,7 +6,7 @@ namespace Toumoro\TmContainercache\Utility;
 
 /***
  *
- * This file is part of the "tm_containercache" Extension for TYPO3 CMS by Toumoro.com.
+ * This file is part of the "Redis Container cache" Extension for TYPO3 CMS by Toumoro.com.
  *
  * For the full copyright and license information, please read the
  * LICENSE.txt file that was distributed with this source code.
