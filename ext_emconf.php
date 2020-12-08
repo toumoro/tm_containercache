@@ -11,8 +11,8 @@
  ***************************************************************/
 
 $EM_CONF[$_EXTKEY] = [
-    'title' => 'Tm Container cache',
-    'description' => 'Prefix redis cache entries with a build number',
+    'title' => 'Redis Container cache',
+    'description' => 'This extension prefixes Redis cache entries with a build number.',
     'category' => 'plugin',
     'author' => 'Simon Ouellet',
     'author_email' => 'simon.ouellet@toumoro.com',
